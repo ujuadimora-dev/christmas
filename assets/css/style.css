@@ -21,12 +21,12 @@ body{
     position: relative;
 }
 .container h1{
-    font-size: 2rem;
-    color: #DE4E27;
+    font-size: 4rem;
+    color: 	#FFD700;
     text-transform: uppercase;
 }
 .container h2{
-    font-size: 1.5rem;
+    font-size: 3rem;
     color:#DE4E27;
     text-transform: uppercase;
 }
@@ -77,7 +77,7 @@ body{
 .quote{
     color: #DE4E27;
     text-shadow: 1px 1px black;
-    font-size: 1.2rem;
+    font-size: 2rem;
     font-weight: 600;
     text-transform: uppercase;
 }
